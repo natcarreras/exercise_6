@@ -1,1 +1,2 @@
 This is the second file of Paul
+Paul adds one new lines to file2Paul
